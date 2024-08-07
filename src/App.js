@@ -8,10 +8,6 @@ function App() {
       <>Hello</>
       <>Hello2</>
       <Body />
-      <>BranchB1</>
-      <>BranchB2</>
-      <>BranchC</>
-      <Footer />
     </div>
   );
 }
