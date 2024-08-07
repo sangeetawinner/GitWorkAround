@@ -10,7 +10,7 @@ function App() {
       <Body />
       <>BranchB1</>
       <>BranchB2</>
-
+      <Footer />
     </div>
   );
 }
