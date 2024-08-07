@@ -9,6 +9,8 @@ function App() {
       <>Hello2</>
       <Body />
       <>BranchB1</>
+      <>BranchB2</>
+
     </div>
   );
 }
